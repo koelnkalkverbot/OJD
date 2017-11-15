@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OJD</string>
+
+    <string name="monday">Montag</string>
+    <string name="tuesday">Dienstag</string>
+    <string name="wednesday">Mittwoch</string>
+    <string name="thursday">Donnerstag</string>
+    <string name="friday">Freitag</string>
+    <string name="main_dishes">Hauptgerichte</string>
+    <string name="other_dishes">Wochengerichte</string>
+    <string name="closed">OJD is closed today</string>
+    <string name="info">Info</string>
+    <string name="info_text">Öffnungszeiten: Montag bis Freitag 12 bis 15 Uhr. Weitere Infos auf http://facebook.com/OSKARJAEGERdeli.ehrenfeld</string>
+
+    <string-array name="days">
+        <item>@string/monday</item>
+        <item>@string/tuesday</item>
+        <item>@string/wednesday</item>
+        <item>@string/thursday</item>
+        <item>@string/friday</item>
+    </string-array>
+</resources>
